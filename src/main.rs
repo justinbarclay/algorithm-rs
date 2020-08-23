@@ -1,4 +1,5 @@
 mod binary_search;
+mod selection_sort;
 use binary_search::binary_search_iter;
 
 fn main() {
